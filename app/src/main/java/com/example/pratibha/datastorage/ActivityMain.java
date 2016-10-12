@@ -67,5 +67,6 @@ public class ActivityMain extends AppCompatActivity {
 
     private void TeamUpload(){
         int i = 1+1;
+        int j = 2;
     }
 }
