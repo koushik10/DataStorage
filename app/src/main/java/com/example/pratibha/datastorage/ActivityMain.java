@@ -64,4 +64,8 @@ public class ActivityMain extends AppCompatActivity {
         ActivityMain.this.finish();
         System.exit(0);
     }
+
+    private void TeamUpload(){
+        int i = 1+1;
+    }
 }

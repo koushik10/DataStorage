@@ -24,6 +24,7 @@ public class SQLite extends AppCompatActivity {
     private SimpleDateFormat s = new SimpleDateFormat("MM/dd/yyyy-hh:mm a");
     private static final String SQL_COUNTER = "SQL_COUNTER";
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
